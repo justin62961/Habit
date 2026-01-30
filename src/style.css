@@ -1,0 +1,16 @@
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+button {
+  cursor: pointer;
+}
+.card {
+  background: #020617;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
