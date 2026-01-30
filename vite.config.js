@@ -4,6 +4,6 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   // IMPORTANT: Replace REPO_NAME_HERE with your GitHub repo name.
   // Example: base: "/habit-tracker/"
-  base: "/REPO_NAME_HERE/",
+  base: "/Habit/",
   plugins: [react()],
 });
